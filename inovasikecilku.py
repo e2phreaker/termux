@@ -7,7 +7,7 @@ b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
 print(a+'\t  Enable Extra Keys on Termux ')
-print(b+'\t  Web : inovasikecilku.my.id')
+print(b+'\t  Web : inovasikecilku.com')
 print(a+'+'*48)
 print('\nProses..')
 sleep(1)
